@@ -6,7 +6,7 @@
       
 ### 🧑‍💻 About Me
 
-👋 An Informatics Engineering student from **Duta Bangsa University Surakarta**, concentrating on Intelligent Systems.  
+An Informatics Engineering student from **Universitas Duta Bangsa Surakarta**, concentrating on Intelligent Systems.  
 I'm passionate about Web/Mobile Development and AI implementation 🚀  
 
 📚 Always learning and building something new — let’s collaborate!
@@ -32,11 +32,6 @@ I'm passionate about Web/Mobile Development and AI implementation 🚀
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/CorelDRAW-46B12C?style=flat&logo=coreldraw&logoColor=white"/>
 </p>
-
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
-    </td>
   </tr>
 </table>
 
@@ -60,8 +55,4 @@ I'm passionate about Web/Mobile Development and AI implementation 🚀
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=adnanhnf&theme=tokyonight" height="160px"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnanhnf&theme=tokyonight&no-frame=true&column=4" height="160px"/>
 </p>
