@@ -1,12 +1,19 @@
+<h1 align="center">Hi there 👋, I'm Adnan Hanafi</h1>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ### 🧑‍💻 About Me
 
-👋 Hi! I'm **Adnan Hanafi**, an Informatics Engineering student from **Duta Bangsa University Surakarta**, with a concentration in Intelligent Systems. I'm passionate about web/mobile development and AI implementation 🚀  
+👋 An Informatics Engineering student from **Duta Bangsa University Surakarta**, concentrating on Intelligent Systems.  
+I'm passionate about Web/Mobile Development and AI implementation 🚀  
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+📚 Always learning and building something new — let’s collaborate!
 
 ---
 
-### 🚀 My Tools & Technologies
+### 🚀 My Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -26,6 +33,13 @@
   <img src="https://img.shields.io/badge/CorelDRAW-46B12C?style=flat&logo=coreldraw&logoColor=white"/>
 </p>
 
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🌐 Connect With Me
@@ -38,11 +52,14 @@
 
 ---
 
-<!-- Top Languages -->
+### 📊 GitHub Analytics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhnf&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhnf&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhnf&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
-### 🖼 Featured Image
-
-<img src="https://i.pinimg.com/originals/1f/0e/55/1f0e55c0df0b3a7b70693a23a014170b.png" alt="Elegant Developer" width="100%" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=adnanhnf&theme=tokyonight" height="160px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adnanhnf&theme=tokyonight&no-frame=true&column=4" height="160px"/>
+</p>
