@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Adnan Hanafi</h1>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ### 🧑‍💻 About Me
 
