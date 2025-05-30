@@ -1,7 +1,6 @@
 ### 🧑‍💻 About Me
 
 👋 Hi! I'm **Adnan Hanafi**, an Informatics Engineering student from **Duta Bangsa University Surakarta**, with a concentration in Intelligent Systems. I'm passionate about web/mobile development and AI implementation 🚀  
-🎯 “Code. Create. Connect.”
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -25,7 +24,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/CorelDRAW-46B12C?style=flat&logo=coreldraw&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Capcut-000000?style=flat&logo=capcut&logoColor=white"/>
 </p>
 
 ---
@@ -39,6 +37,11 @@
 </p>
 
 ---
+
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhnf&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ### 🖼 Featured Image
 
