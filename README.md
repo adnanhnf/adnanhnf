@@ -60,5 +60,8 @@ I'm passionate about Web/Mobile Development and AI implementation 🚀
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=adnanhnf&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=adnanhnf&theme=tokyonight&no-frame=true&column=4" height="160px"/>
 </p>
