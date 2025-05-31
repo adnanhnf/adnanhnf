@@ -4,7 +4,8 @@
 
 ### 🧑‍💻 About Me
 
-An Informatics Engineering student from **Universitas Duta Bangsa Surakarta**, concentrating on Intelligent Systems.  
+An Informatics Engineering student from **Universitas Duta Bangsa Surakarta**, concentrating 
+on Intelligent Systems.  
 I'm passionate about Web/Mobile Development and AI implementation 🚀  
 
 📚 Always learning and building something new — let’s collaborate!
